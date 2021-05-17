@@ -13,9 +13,10 @@
 ## 🚀 Languages & Tools:
 
 <img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=4AB197" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197" width = "120" height = "30">
+<img src ="https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197" width = "130" height = "30">
 <img src ="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197" width = "120" height = "30">
+<img src ="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197" width = "130" height = "30">
+<img src ="https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=Git&logoColor=white&color=4AB197" width = "130" height = "30">
 
 ## 📊 My Stats:
 

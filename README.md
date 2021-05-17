@@ -1,5 +1,5 @@
 <p align="right">
-  <img src = "https://github.com/priyankaaa532002/MainRepo/blob/master/trial/priyanka-github.png" width = "400" height = "400" align = "right">
+  <img src = "https://github.com/priyankaaa532002/ExpRepo/blob/master/1sttrial/priyanka-github.png" width = "400" height = "400" align = "right">
   </p>
   
 # Hi there, I am Priyanka!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">

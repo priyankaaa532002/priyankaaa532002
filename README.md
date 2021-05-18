@@ -28,3 +28,5 @@
 
 <a href = "https://www.linkedin.com/in/priyanka-chowdhury-532002/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaaa532002&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaynithin2002" /> </p>
+

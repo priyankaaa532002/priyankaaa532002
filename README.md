@@ -2,7 +2,8 @@
   <img src = "https://github.com/priyankaaa532002/ExpRepo/blob/master/1sttrial/priyanka-github.png" width = "400" height = "400" align = "right">
   </p>
   
-# Hi there, I am Priyanka!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Priyanka !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 
 
 - 🌱 I’m a student, currently pursuing my undergrad in Information Technology from VIT Vellore
@@ -36,5 +37,5 @@
 
 <a href = "https://www.linkedin.com/in/priyanka-chowdhury-532002/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaaa532002&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaynithin2002" /> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) <img src="https://komarev.com/ghpvc/?username=priyankaaa532002&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaynithin2002" /> </p>
 

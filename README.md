@@ -2,7 +2,7 @@
   <img src = "https://github.com/priyankaaa532002/ExpRepo/blob/master/1sttrial/priyanka-github.png" width = "400" height = "400" align = "right">
   </p>
   
-<h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Priyanka !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Priyanka!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
 

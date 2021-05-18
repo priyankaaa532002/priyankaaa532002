@@ -10,6 +10,8 @@
 - 👩🏻‍💻 I’m currently learning Android Development (Java)
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/priyanka-chowdhury-532002/) 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankaaa532002&theme=tokyonight_duo)](https://git.io/streak-stats)
+
 ## 🚀 Languages & Tools:
 
 <img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=4AB197" width = "120" height = "30">
@@ -23,6 +25,7 @@
 <img alt="priyankaaa532002's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyankaaa532002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 
 <img alt="priyankaaa532002's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaaa532002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
 
 ## 📫 Connect with me:
 

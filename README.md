@@ -8,7 +8,7 @@
 
 - 🌱 I’m a student, currently pursuing my undergrad in Information Technology from VIT Vellore
 - :computer: I’m interested in Android Development and Competitive Coding
-- 👩🏻‍💻 I’m currently learning Android Development (Java)
+- 👩🏻‍💻 I’m currently learning Android Development (Java & Kotlin)
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/priyanka-chowdhury-532002/) 
 
 
@@ -16,9 +16,11 @@
 
 <img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=4AB197" width = "120" height = "30">
 <img src ="https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197" width = "130" height = "30">
+<img src ="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197" width = "130" height = "30">
 <img src ="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" width = "120" height = "30">
 <img src ="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197" width = "130" height = "30">
 <img src ="https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=Git&logoColor=white&color=4AB197" width = "130" height = "30">
+<img src ="https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197" width = "135" height = "30">
 
 
 

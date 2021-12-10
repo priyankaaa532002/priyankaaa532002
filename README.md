@@ -13,16 +13,8 @@
 
 
 ## 🚀 Languages & Tools:
-
-<img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=4AB197" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197" width = "130" height = "30">
-<img src ="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197" width = "130" height = "30">
-<img src ="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197" width = "130" height = "30">
-<img src ="https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=Git&logoColor=white&color=4AB197" width = "130" height = "30">
-<img src ="https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197" width = "135" height = "30">
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/> 
 
 ## 🔥 My Github Streak:
 

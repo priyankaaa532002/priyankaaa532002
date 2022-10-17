@@ -1,3 +1,4 @@
+[![@priyankaaa532002's Holopin board](https://holopin.io/api/user/board?user=priyankaaa532002)](https://holopin.io/@priyankaaa532002)
 <p align="right">
   <img src = "https://github.com/priyankaaa532002/ExpRepo/blob/master/1sttrial/priyanka-github.png" width = "400" height = "400" align = "right">
   </p>
@@ -31,8 +32,6 @@
 ## 📫 Connect with me:
 
 <a href = "https://www.linkedin.com/in/priyanka-chowdhury-532002/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-[![@priyankaaa532002's Holopin board](https://holopin.io/api/user/board?user=priyankaaa532002)](https://holopin.io/@priyankaaa532002)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) <img src="https://komarev.com/ghpvc/?username=priyankaaa532002&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaynithin2002" /> </p>
 

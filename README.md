@@ -1,20 +1,20 @@
 [![@priyankaaa532002's Holopin board](https://holopin.io/api/user/board?user=priyankaaa532002)](https://holopin.io/@priyankaaa532002)
 <p align="right">
-  <img src = "https://github.com/priyankaaa532002/ExpRepo/blob/master/1sttrial/priyanka-github.png" width = "400" height = "400" align = "right">
-  </p>
+<!--   <img src = "https://github.com/priyankaaa532002/ExpRepo/blob/master/1sttrial/priyanka-github.png" width = "400" height = "400" align = "right">
+  </p> -->
   
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Priyanka!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
 
 - 🌱 I’m a student, currently pursuing my undergrad in Information Technology from VIT Vellore
-- :computer: I’m interested in Android Development and Competitive Coding
-- 👩🏻‍💻 I’m currently learning Android Development (Java & Kotlin)
+- :computer: I’m interested in Blockchain Development, Android Development and Competitive Coding
+- 👩🏻‍💻 I’m currently exploring WEB3 and Blockchain
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/priyanka-chowdhury-532002/) 
 
 
 ## 🚀 Languages & Tools:
-<img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/android.svg" width = "45" height = "45"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+<img src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Solidity.svg" width = "45" height = "45">  <img src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width = "45" height = "45">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/android.svg" width = "45" height = "45"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/express.svg" width = "45" height = "45">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" width = "45" height = "45"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="45"/> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/angularjs.svg" alt="angular" width="45" height="45"/> <img src="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="kotlin" width="45" height="45"/>
 
